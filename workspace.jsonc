@@ -7,6 +7,7 @@
    * main configuration of the Bit workspace.
    **/
   "teambit.workspace/workspace": {
+    
     /**
      * the name of the component workspace. used for development purposes.
      **/
