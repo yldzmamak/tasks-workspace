@@ -1,0 +1,22 @@
+{
+  "componentId": {
+    "name": "apps/button",
+    "version": "0.0.2",
+    "scope": "yldzmamak.tasks-scope"
+  },
+  "propagate": false,
+  "extensions": {
+    "teambit.react/react": {},
+    "teambit.envs/envs": {
+      "env": "teambit.react/react"
+    },
+    "teambit.dependencies/dependency-resolver": {},
+    "teambit.harmony/application": {},
+    "teambit.compositions/compositions": {},
+    "teambit.docs/docs": {},
+    "teambit.pkg/pkg": {},
+    "teambit.preview/preview": {},
+    "teambit.component/dev-files": {},
+    "teambit.pipelines/builder": {}
+  }
+}
