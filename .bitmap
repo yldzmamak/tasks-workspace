@@ -37,15 +37,9 @@
     },
     "extensions/my-dev-files": {
         "scope": "",
-        "version": "44d3e236f3e95397bdc758ad06446dfcbec1aa3c",
+        "version": "6bb4a5e86d4385c26966c53b966e1144cf470d91",
         "mainFile": "index.ts",
-        "rootDir": "tasks-scope/extensions/my-dev-files",
-        "nextVersion": {
-            "version": "patch",
-            "message": "my message",
-            "username": "yldzmamak",
-            "email": "yildiz.mamak@param.com.tr"
-        }
+        "rootDir": "tasks-scope/extensions/my-dev-files"
     },
     "routes/is-up": {
         "scope": "",
