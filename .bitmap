@@ -41,12 +41,6 @@
         "mainFile": "index.ts",
         "rootDir": "tasks-scope/extensions/my-dev-files"
     },
-    "navigation/link": {
-        "scope": "teambit.base-react",
-        "version": "e54872b38aa9b5bb234ff2f025d46b90d6180716",
-        "mainFile": "index.ts",
-        "rootDir": "base-react/navigation/link"
-    },
     "routes/is-up": {
         "scope": "",
         "version": "4b3f11a2d576841df4ff7217e930daf622920f63",
